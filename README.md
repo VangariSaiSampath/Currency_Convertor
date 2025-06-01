@@ -1,16 +1,36 @@
-# currency_converter_new
+# Currency Converter Pro
 
-A new Flutter project.
+A modern, fast, and reliable currency converter web application built with Flutter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Real-time currency conversion
+- Support for major world currencies
+- Clean and intuitive Material Design UI
+- Offline conversion capability
+- Fast and responsive
 
-A few resources to get you started if this is your first Flutter project:
+## Live Demo
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Visit the live application at: https://vangarisaisampath.github.io/Currency_Convertor/
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Development
+
+To run this project locally:
+
+1. Clone the repository
+2. Install Flutter (version 3.19.0 or later)
+3. Run `flutter pub get`
+4. Run `flutter run -d chrome`
+
+## Deployment
+
+The application is automatically deployed to GitHub Pages when changes are pushed to the main branch.
+
+## API
+
+This application uses the Open Exchange Rates API for currency conversion data.
+
+## License
+
+MIT License
